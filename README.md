@@ -1,4 +1,4 @@
-# NetworkTrafficMonitor
+# Network Traffic Monitor
 
 OS Final Project - Chuilian Kong
 
