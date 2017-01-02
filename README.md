@@ -1,6 +1,6 @@
-# KCL-NetworkTrafficMonitor
+# NetworkTrafficMonitor
 
-Final Project - Chuilian Kong
+OS Final Project - Chuilian Kong
 
 ## Brief Description
 
