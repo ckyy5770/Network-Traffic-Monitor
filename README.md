@@ -1,6 +1,6 @@
 # Network Traffic Monitor
 
-OS Final Project - Chuilian Kong
+OS Final Project - Dec.2016
 
 ## Brief Description
 
